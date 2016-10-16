@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Muse VR.unity
+  isLoaded: 1
+  isActive: 1

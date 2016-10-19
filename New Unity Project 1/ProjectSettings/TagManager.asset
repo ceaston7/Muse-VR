@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - lift
+  - Fire
+  - mind
+  - push
   layers:
   - Default
   - TransparentFX
